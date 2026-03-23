@@ -36,7 +36,7 @@ Everything else is permitted. No strings attached.
 ## Who
 
 HSL was developed by Dr. Ralph M. Debusmann in 2026 as the license 
-for [Kafi](https://github.com/xdgrulez/kafi).
+for upcoming versions of [Kafi](https://github.com/xdgrulez/kafi).
 
 It is designed to be adopted by any project that believes human 
 creativity deserves protection — from cloud commoditization and 
