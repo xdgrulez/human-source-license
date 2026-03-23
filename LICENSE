@@ -1,0 +1,139 @@
+Human Source License (HSL) 0.1
+Developed by Dr. Ralph M. Debusmann, 2026
+https://github.com/xdgrulez/human-source-license/blob/v0.1/LICENSE
+
+For use with [Project Name]:
+Copyright (c) [Year] [Copyright Holder]
+
+1. Definitions
+
+  "Managed Service": Providing the functionality of this 
+  software to external third parties as a hosted or managed 
+  service, whether or not the use of this software is 
+  disclosed to end users. Internal use within an organization 
+  is permitted.
+
+  "AI Training": Using this software, its source code, 
+  documentation, outputs, logs, or synthetic derivatives 
+  to train, fine-tune, or distill machine learning or 
+  AI models.
+
+  "European Entity": An entity directly entering into this 
+  license that is headquartered in the EEA or Switzerland, 
+  provided its ultimate parent company is also located 
+  within these territories. This determination is based 
+  solely on the entity directly using this software, not 
+  any parent, subsidiary, or affiliated entity.
+
+  "AI Agent": An automated system generating or submitting 
+  code without direct, line-by-line human review and 
+  manual submission.
+
+  "Annual Revenue": The total global revenue of the entity 
+  and its ultimate parent company combined, in the most 
+  recently completed fiscal year.
+
+2. Grant of Rights
+
+  You are granted a worldwide, royalty-free license to use, 
+  copy, modify, and distribute this software and derivatives 
+  for any purpose, subject to the limitations below.
+
+3. Limitations
+
+  (a) Managed Service: You may not provide a Managed Service 
+      based on this software without a commercial license 
+      from the copyright holder.
+
+  (b) AI Training: You may not use this software for AI 
+      Training without a commercial license from the 
+      copyright holder. Reproduction of three or more 
+      consecutive lines of this software's source code, 
+      documentation, or outputs by an AI system shall 
+      constitute prima facie evidence of unauthorized AI 
+      Training use, subject to rebuttal by the accused party.
+
+4. Trademark
+
+  No rights are granted to the name "[Project Name]" or 
+  associated logos or trademarks.
+
+5. Contributions
+
+  Contributors retain their copyright but grant the copyright 
+  holder a perpetual, irrevocable, and sublicensable license 
+  to use, modify, and distribute all contributions under any 
+  terms.
+
+  Contributions must be submitted by a human being acting 
+  in their own capacity. Contributions submitted by or on 
+  behalf of AI Agents are not accepted and will be rejected.
+
+6. Patent Grant
+
+  Each contributor grants you a license under their essential 
+  patent claims to use and distribute this software. Any 
+  party that initiates patent litigation against this 
+  software automatically and immediately terminates their 
+  rights under this license.
+
+7. Enforcement, Audit & Damages
+
+  Any breach of Section 3 automatically and immediately 
+  terminates this license unless cured within the following 
+  period after written notice from the copyright holder:
+
+  (a) 90 days for entities with Annual Revenue below 
+      EUR 1 million;
+
+  (b) 30 days for entities with Annual Revenue between 
+      EUR 1 million and EUR 100 million;
+
+  (c) Termination is immediate and permanent for entities 
+      with Annual Revenue exceeding EUR 100 million.
+
+  Upon written notice specifying the alleged breach, the 
+  copyright holder may demand an independent audit no more 
+  than once per calendar year. The audit shall commence 
+  within 10 business days of notice. If a violation is 
+  found, the audited party bears all audit and legal costs.
+
+  Damages — all entities:
+
+    Damages shall equal the greater of:
+
+    (a) three times a reasonable commercial royalty 
+        reflecting the value of a license that would 
+        have been agreed upon between the parties at 
+        the time of the violation, or
+
+    (b) the revenue attributable to the infringing use, 
+        which in the absence of clear evidence to the 
+        contrary shall be presumed to constitute no less 
+        than 10% of the violating entity's Annual Revenue 
+        during the period of violation.
+
+    In case of AI Training violations, the period of 
+    violation shall encompass the entire commercial 
+    lifetime of the AI model or system trained on this 
+    software.
+
+8. Disclaimer
+
+  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF 
+  ANY KIND. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY 
+  CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF 
+  THIS SOFTWARE.
+
+9. Governing Law
+
+  Zone A — European Entities: This license is governed by 
+  the laws of Germany, without regard to conflict of law 
+  principles. Any disputes shall be subject to the exclusive 
+  jurisdiction of the courts of Berlin, Germany.
+
+  Zone B — Non-European Entities: This license is governed 
+  by the laws of the State of Delaware, USA, without regard 
+  to conflict of law principles. Any disputes shall be 
+  subject to the exclusive jurisdiction of the courts of 
+  Delaware, USA.
