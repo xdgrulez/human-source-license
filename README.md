@@ -4,54 +4,30 @@ A source-available license for the age of AI.
 
 ## Why
 
-Open source has always been built on a simple social contract: 
-developers share their work freely, and the community gives back 
-through contributions, attribution, and goodwill.
+Open source was built on a simple social contract: developers share their work freely, and the community gives back through contributions and goodwill.
 
-AI companies have broken this contract. They train on decades of 
-human-written code and documentation — without permission, without 
-compensation, without credit — and turn it into commercial products 
-worth billions.
+AI companies and hyper-scalers have broken this contract. They extract decades of human-written code to build billion-dollar models and managed services — without permission, compensation, or credit. 
 
-At the same time, managed cloud providers have built empires on 
-open source infrastructure, contributing little while capturing 
-most of the value.
-
-HSL is a direct response to both.
+HSL is a direct response to this extraction.
 
 ## What
 
-HSL is a simple, one-page license that:
+HSL is a concise license that keeps software free for the community while capturing value from those who profit most:
 
-- **Allows** free use for individuals, startups, and companies 
-  building their own products
-- **Requires** a commercial license from anyone offering your 
-  software as a managed service
-- **Requires** a commercial license from anyone using your code, 
-  documentation, or outputs to train AI models
-- **Prohibits** contributions from AI agents — human hands only
-
-Everything else is permitted. No strings attached.
+- **Free for the 99%:** Free for individuals, researchers, and any organization's internal operations.
+- **Large-Scale Commercial Use:** Companies with >$100M revenue (inflation-adjusted) require a license for external software or services.
+- **AI Model Protection:** Any use for training, running, or supporting AI models for third parties requires a commercial license, regardless of revenue.
+- **Professional Services Friendly:** Using the software as a tool for consulting and custom development remains free.
+- **Human Hands Only:** Contributions from AI agents are rejected. HSL is for human-to-human collaboration.
 
 ## Who
 
-HSL was developed by Dr. Ralph M. Debusmann in 2026 as the license 
-for upcoming versions of [Kafi](https://github.com/xdgrulez/kafi).
-
-It is designed to be adopted by any project that believes human 
-creativity deserves protection — from cloud commoditization and 
-from AI extraction.
+HSL was developed by Dr. Ralph M. Debusmann in 2026 for [Kafi](https://github.com/xdgrulez/kafi) and other projects that believe human creativity deserves protection.
 
 ## Use it
 
-Copy `LICENSE` into your repo. Replace `[Project Name]` and 
-`[Copyright Holder]` with your own. That's it.
-
-If HSL gains traction and a foundation or standards body wants 
-to steward it, we're open to that conversation.
+Copy `LICENSE` into your repo. Replace `[Project Name]`, `[Year]`, and `[Copyright Holder]` with your own. 
 
 ## Status
 
-HSL v1.0 is a working draft. It has not yet been reviewed by a 
-lawyer. Use it, improve it, and if you're a lawyer who believes 
-in what this is trying to do — get in touch.
+HSL v0.2 is a working draft. It has been structured for international use (with specific protections for European and US jurisdictions) but has not yet been reviewed by a lawyer.
