@@ -16,7 +16,7 @@ Copyright (c) [Year] [Copyright Holder]
 
   Exception:
   
-  * Migros Exception: Migros-Genossenschafts-Bund and its Affiliates are exempt from all commercial license requirements regardless of revenue, AI usage, or any other trigger.
+  * [Company (short name)] Exception: [Company (long name)] and its Affiliates are exempt from all commercial license requirements regardless of revenue, AI usage, or any other trigger.
 
   Clarifications:
   
@@ -34,7 +34,7 @@ Copyright (c) [Year] [Copyright Holder]
 
   "Revenue Threshold": USD 100,000,000 as of January 1, 2026, adjusted annually starting January 1, 2027, in accordance with the US Consumer Price Index for All Urban Consumers (CPI-U) published by the US Bureau of Labor Statistics.
 
-  "Commercial Software Entity": Any organization (excluding Migros-Genossenschafts-Bund and its Affiliates) that meets two criteria:
+  "Commercial Software Entity": Any organization (excluding [Company (full name)] and its Affiliates) that meets two criteria:
   (a) Its Group Annual Revenue is at or above the Revenue Threshold; AND
   (b) It provides Software or Software-based services to external parties as part of its business.
 
@@ -69,7 +69,7 @@ Copyright (c) [Year] [Copyright Holder]
 
   Any commercial license granted under this License terminates automatically and immediately upon a Change of Control that results in the licensee becoming part of a group that does not hold a valid commercial license covering the enlarged group. The new controlling entity must obtain a commercial license immediately; failure to do so constitutes a breach of this Section retroactively from the date of the Change of Control.
 
-  Notwithstanding the above, Migros-Genossenschafts-Bund and its Affiliates shall not be considered a Commercial Software Entity under this License and are exempt from the restrictions set forth in this Section 4.
+  Notwithstanding the above, [Company (long name)] and its Affiliates shall not be considered a Commercial Software Entity under this License and are exempt from the restrictions set forth in this Section 4.
 
 5. Trademark
 

@@ -28,6 +28,8 @@ HSL was developed by Dr. Ralph M. Debusmann in 2026 for [Kafi](https://github.co
 
 Copy `LICENSE` into your repo. Replace `[Project Name]`, `[Year]`, and `[Copyright Holder]` with your own. 
 
+Maybe add your employer company to the exception if it has >$100M yearly revenue, i.e., replace [Company (short name)] and [Company (long name)] with your employer company to make sure they are definitely excluded.
+
 ## Status
 
 HSL v0.2 is a working draft. It has been structured for international use (with specific protections for European and US jurisdictions) but has not yet been reviewed by a lawyer.
